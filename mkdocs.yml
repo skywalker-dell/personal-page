@@ -3,9 +3,12 @@ site_name: Wenxuan Zhu
 theme:
   name: 'material'
 
-extra_javascript:
-    - 'js/extra.js'
-    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+extra_javascript: 
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+    - mdx_math
+
 
 nav:
   - Overview: index.md  
