@@ -1,21 +1,7 @@
 # Motion Predict
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>MathJax TeX Test Page</title>
-        <script type="text/x-mathjax-config">
-            MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-        </script>
-        <script type="text/javascript"
-            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-            </script>
-        </head>
-    </html>
 ## Coordinate Transformations
 
 In order to meet the requirement of hit ratio, the gimbal is required to predict the motion of the target during tracking, and the motion prediction needs to estimate the motion state of the target in the inertial frame.
-
-
 
 We can get the coordinates of the target in the camera frame through pnp algorithm.
 $$
