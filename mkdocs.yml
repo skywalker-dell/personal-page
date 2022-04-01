@@ -9,3 +9,4 @@ nav:
   - Portfolio:
     - Object detection: armor_detect.md
     - Motion preditction: motion_predict.md
+    - Motion fitting: rune.md
