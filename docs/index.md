@@ -8,5 +8,7 @@ Finding meaning in my work is important to me. I prefer to work with passionate 
 
 <!-- Hoping to contribute to open source robotics. -->
 
-<div style="text-align:center"><img src="assets/images/0.png"></div>
+<div style="text-align:left">
+    <img src="assets/images/0.png">
+</div>
 
