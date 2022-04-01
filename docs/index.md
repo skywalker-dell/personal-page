@@ -6,7 +6,7 @@ As a member of the algorithm department of Harbin Institute of Technology, I am 
 
 Finding meaning in my work is important to me. I prefer to work with passionate teams on projects with the potential to bend the future of humanity towards better outcomes.
 
-Hoping to contribute to open source robotics.
+<!-- Hoping to contribute to open source robotics. -->
 
 <div style="text-align:center"><img src="assets/images/0.png"></div>
 
