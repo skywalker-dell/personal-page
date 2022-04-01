@@ -6,3 +6,6 @@ nav:
   - Overview: index.md  
   - Curriculum vitae: cv.md
   - Blog: blog.md
+  - Portfolio:
+    - Object detection: armor_detect.md
+    - Motion preditction: motion_predict.md
