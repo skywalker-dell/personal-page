@@ -5,3 +5,4 @@ theme:
 nav:
   - Overview: index.md  
   - Curriculum vitae: cv.md
+  - Blog: blog.md
