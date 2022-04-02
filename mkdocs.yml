@@ -3,12 +3,6 @@ site_name: Wenxuan Zhu
 theme:
   name: 'material'
 
-# extra_javascript: 
-#     - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
-
-# markdown_extensions:
-#     - mdx_math
-
 
 nav:
   - Overview: index.md  
@@ -18,12 +12,3 @@ nav:
     - Object detection: armor_detect.md
     - Motion preditction: motion_predict.md
     - Motion fitting: rune.md
-
-# markdown_extensions:
-#   - pymdownx.arithmatex:
-#       generic: true
-
-# extra_javascript:
-#   - java/config.js
-#   - https://polyfill.io/v3/polyfill.min.js?features=es6
-#   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
