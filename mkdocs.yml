@@ -7,6 +7,7 @@ theme:
 nav:
   - Overview: index.md  
   - Curriculum vitae: cv.md
+  - Study record: study_record.md
   - Blog: blog.md
   - Portfolio:
     - Object detection: armor_detect.md
