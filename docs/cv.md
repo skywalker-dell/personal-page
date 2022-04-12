@@ -1,2 +1,2 @@
-Click here to visit my [CV](https://skywalker-dell.github.io/CV/).
+Click here to see my [CV](https://skywalker-dell.github.io/CV/).
 

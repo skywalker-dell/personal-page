@@ -19,8 +19,10 @@ $$
 According to the installation position of the camera,  the coordinates of the target in the gimbal frame can be obtained.
 <body>
 $$
-^BP\, =\, _C^BT^CP
+^BP\, =\, _C^BR^CP+^AP_B
 $$
+
+
 </body>
 Then We can use IMU to obtain the coordinate transformation matrix from gimbal frame to inertial frame, and the inertial frame coordinate of the target is obtained by transforming the target coordinates from gimbal frame to inertial frame.
 <body>
