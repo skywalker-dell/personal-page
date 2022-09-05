@@ -9,7 +9,7 @@ nav:
   - Curriculum vitae: cv.md
   - Study record: study_record.md
   - Blog: blog.md
-  - Portfolio :
+  - Portfolio: portfolio.md
     # - Object detection: armor_detect.md
     # - Motion preditction: motion_predict.md
     # - Motion fitting: rune.md
