@@ -4,7 +4,7 @@ I'm currently a senior undergraduate student majoring in Robot Engineering at Ha
 
 As a member of the algorithm department of the robot Team in Harbin Institute of Technology, I am mainly responsible for coding and designing the control algorithm and auto-aim algorithm for the robots in the Robomaster 2021/2022. In 2022, I became the deputy captain of the team and leader of the algorithm department, mainly responsible for developing high performance robot detection and tracking algorithm and designing maneuvering target prediction algorithm. We both won the Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition and First Prize in the Final Round of the National College Students’ RoboMaster robotic Competition Individual Finals.
 
-Recently, I'm doing an internship in Discover Lab of Tsinghua University. 
+Currently, I'm doing an internship in Discover Lab of Tsinghua University. 
 
 Finding meaning in my work is important to me. I prefer to work with passionate teams on projects with the potential to bend the future of humanity towards better outcomes.
 
