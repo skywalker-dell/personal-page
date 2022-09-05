@@ -4,7 +4,7 @@
 # Motion Predict
 <iframe width="1000" height="400" src="https://www.youtube.com/embed/qpviym5JZWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Power rune
+# Power Rune
 <iframe width="1000" height="400" src="https://www.youtube.com/embed/2rhktncTOKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # AntiTop
